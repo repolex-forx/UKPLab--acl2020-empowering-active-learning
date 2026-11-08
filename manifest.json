@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "acl2020-empowering-active-learning",
+  "versions": [
+    {
+      "commit": "13159f2a7ce10aa78d8fea84e321f63bbe903d39",
+      "parsed_at": "2026-11-08T12:14:36.637302+00:00",
+      "filetree": "filetree/13159f2a7ce10aa78d8fea84e321f63bbe903d39.nq.gz",
+      "blobs": [
+        "blob/a85c934cfe4d86347363a932ae640c9f0d0b3ba7.nq.gz",
+        "blob/d335aa2aa4d4a044fed229c889b21f56828b5dd1.nq.gz",
+        "blob/295ed272211ff7904a20a3810776e68dc54db493.nq.gz",
+        "blob/651c95bdc5e724d1da0d2a0596b03642cb1a97b9.nq.gz",
+        "blob/ae4b87a1adb696585e328aa5cc2fa7fa5a5db43f.nq.gz",
+        "blob/e2cc00ef590bf989ae8c196db042c4dc2f0df42b.nq.gz",
+        "blob/d9b6c220e057989f5b41cc0df07571e6e3ef78e7.nq.gz",
+        "blob/88b187ea69a60511fe17866b4edb4fa3dfff868e.nq.gz",
+        "blob/5a427c5748bc3e3379f052ad3bda550ce55f898f.nq.gz",
+        "blob/15225344a09266e70197c827a70947e4e8f4356d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
