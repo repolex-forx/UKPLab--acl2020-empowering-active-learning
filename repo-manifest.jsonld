@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2020-empowering-active-learning/commit/13159f2a7ce10aa78d8fea84e321f63bbe903d39",
       "git:hexsha": "13159f2a7ce10aa78d8fea84e321f63bbe903d39",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
