@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2020-empowering-active-learning",
+  "versions": [
+    {
+      "commit": "13159f2a7ce10aa78d8fea84e321f63bbe903d39",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:17:21.499652+00:00"
+    }
+  ]
+}
